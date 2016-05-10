@@ -1,0 +1,5 @@
+name: Welcome
+type: module
+description: A module that welcomes users upon log-in
+package: Custom Modules
+core: 8.x
